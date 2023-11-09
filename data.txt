@@ -1,0 +1,15 @@
+Items.create({
+    RestaurantName:"Swagathgrand",
+    location:"begumpet",
+    Food_Item:{chickenbiryani:"3.5/5",tandoori:"5/5",butterchicken:"4/5",muttonbiryani:"2/5",icecream:"4.5/5"}
+})
+Items.create({
+    RestaurantName:"Hotel Tulips",
+    location:"lbnagar",
+    Food_Item:{chickenbiryani:"5/5",tandoori:"4/5",butterchicken:"4/5",muttonbiryani:"3/5",icecream:"4.5/5"}
+})
+Items.create({
+    RestaurantName:"Bawarchi",
+    location:"rtc cross roads",
+    Food_Item:{chickenbiryani:"4/5",tandoori:"3/5",butterchicken:"4.5/5",muttonbiryani:"3/5",icecream:"4/5"}
+})
